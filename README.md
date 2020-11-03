@@ -1,24 +1,55 @@
-# README
+# Micro-reddit 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- In this project we:
+  - Create 3 tables User, Post, Comment, and their associations
+  - Each table have their validations
+ 
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- Rails
+- Ruby on Rails
 
-* System dependencies
 
-* Configuration
+## Getting Started
 
-* Database creation
+- Clone or download the repository https://github.com/ricardomonte/micro-reddit.git
 
-* Database initialization
+- For Linux Users (Ubuntu):
+    - In the folder that contains the cloned repository,right-click.
+    - Click in the option Open in Terminal (this will open the Terminal)
+    - In Terminal run 'Bundle install'
+    - Run 'rails db:migrate'
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Author 1
 
-* Deployment instructions
+- Github: [@ricardomonte](https://github.com/ricardomonte)
+- Twitter: [@ramnkco](https://twitter.com/ramnkco)
+- LinkedIn: [Ricardo Montenegro](https://www.linkedin.com/in/ricardo-antonio-montenegro-nu%C3%B1ez-87a74944/)
 
-* ...
+## Author 2
+
+- Github: [@githubhandle](https://github.com/Kingobaino1)
+- Twitter: [@twitterhandle](https://twitter.com/ibehkingso)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ibeh-kingsley-obinna-568596177) 
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+## Show your support
+
+Give a ⭐️ if you like this project
+
+##  :memo: License
+
+This project is [MIT](LICENSE) licensed.
